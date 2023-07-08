@@ -8,3 +8,5 @@
 
 Для отправки данных с локального ропозитория на внешний, используем команду:
 >git push
+
+<image src="https://i.playground.ru/e/fhPWknqjiKh-EUOaVs_CtA.jpeg" alt="Зачем этот текст?">
