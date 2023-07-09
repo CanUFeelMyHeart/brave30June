@@ -11,5 +11,8 @@ To create new repository, manage files and etc, please use the next commands:
 > **git diff** - shows difference between currently saved file and last commit
 > **git status** - shows status of current working project  
 > **git branch** - shows current branch of editing project  
+>> **git branch** [new_branch_name] - creates new branch with given *new_branch_name* as parameter  
+>> **git branch -d** <branch_name> - deletes branch with name given as parameter
+
 ** This document created using 'markdown' formatting.  
 ![Official  markdown logo](./images/markdownlogo.jpg "Official  markdown logo")
