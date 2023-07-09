@@ -11,5 +11,6 @@ To create new repository, manage files and etc, please use the next commands:
 > **git diff** - shows difference between currently saved file and last commit
 > **git status** - shows status of current working project  
 > **git branch** - shows current branch of editing project  
+> **git merge** - merges two or more branches into one, suggesting to resolve conflicts if any appeared.
 ** This document created using 'markdown' formatting.  
 ![Official  markdown logo](./images/markdownlogo.jpg "Official  markdown logo")
