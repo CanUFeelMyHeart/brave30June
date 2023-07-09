@@ -18,5 +18,8 @@ To create new repository, manage files and etc, please use the next commands:
 > **git log** - list commits  
 >> **git log -graph** - list commits in tree view  
 
+> **git fetch** - fetch object and references from repository  
+>> **git fetch** --dry-run - show possible changes without making any of them  
+>> **git fetch** --force - *git fetch* may refuse to update the local branch, this option override it.
 ** This document created using 'markdown' formatting.  
 ![Official  markdown logo](./images/markdownlogo.jpg "Official  markdown logo")
