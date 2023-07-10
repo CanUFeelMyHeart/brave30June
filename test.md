@@ -1,5 +1,5 @@
-# Git leson #1
-## Current lesson learned commands
+# Git commands short reference
+## Git commands for work with local repository
 To create new repository, manage files and etc, please use the next commands:  
 > **git init** - initialize new repository folder  
 > **git add** - adds file into repository (**git add .** - adds all files from project folder into rpository)  
@@ -20,7 +20,10 @@ To create new repository, manage files and etc, please use the next commands:
 
 > **git fetch** - fetch object and references from repository  
 >> **git fetch** --dry-run - show possible changes without making any of them  
->> **git fetch** --force - *git fetch* may refuse to update the local branch, this option override it.
+>> **git fetch** --force - *git fetch* may refuse to update the local branch, this option override it.  
+## Git commands for work with remote repository  
+> **git pull** - pull changes from remote repository  
+> **git push** - push changes to remote repository
 
-** This document created using 'markdown' formatting.  
+*This document created using 'markdown' formatting.*  
 ![Official  markdown logo](./images/markdownlogo.jpg "Official  markdown logo")
