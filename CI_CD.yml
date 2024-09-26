@@ -1,0 +1,12 @@
+ pages:
+  stage: pages
+  script:
+    - mkdir -p public
+    - echo "Страница проекта" > public/index.html
+  artifacts:
+    paths:
+      - public
+  only:
+    - main
+
+   
